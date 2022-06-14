@@ -1,3 +1,6 @@
+Esto es un trabajo practico dado en la materia Sistemas Operativos de la carrera Ingeniería en Sistemas de Información de la Universidad Tecnológica Nacional (UTN Facultad Regional de Buenos Aires). 
+El enunciado del mismo se encuentra cargado en este repositorio (A-MongOs - v1.3.pdf), si querés saber a detalle el funcionamiento del mismo recomiendo que lo leas.
+
 # tp-2021-1c-impOStor
 
 El siguiente es un sistema distribuido que tiene 3 modulos distintos los cuales hacen alusión a una parte del funcionamiento de un Sistema Operativo
